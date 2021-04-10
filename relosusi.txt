@@ -2,3 +2,4 @@ Belajar Coding
 -mengenal perintah dalam aplikasi Arduino
 -membuat project arduino seminggu sekali
 -membuat AutoCad alat sebulan sekali
+-belajar website
