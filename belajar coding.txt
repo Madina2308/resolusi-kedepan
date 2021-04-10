@@ -3,4 +3,5 @@ belajar coding
 *ES6
 -php
 -web
+seriess
 -struktur data dasar
